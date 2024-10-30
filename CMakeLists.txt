@@ -7,7 +7,7 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 # QT download path
-set(CMAKE_PREFIX_PATH "/opt/homebrew/Cellar/qt/6.7.2")
+set(CMAKE_PREFIX_PATH "/opt/homebrew/bin/cmake")
 
 # find the QT Component
 find_package(Qt6 COMPONENTS
