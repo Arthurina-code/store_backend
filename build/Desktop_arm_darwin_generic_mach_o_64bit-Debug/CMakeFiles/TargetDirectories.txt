@@ -1,0 +1,5 @@
+/Users/coco/Projects/VSprojects/BookMarket-ForCpp/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/BookMarket.dir
+/Users/coco/Projects/VSprojects/BookMarket-ForCpp/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/coco/Projects/VSprojects/BookMarket-ForCpp/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/coco/Projects/VSprojects/BookMarket-ForCpp/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/BookMarket_autogen_timestamp_deps.dir
+/Users/coco/Projects/VSprojects/BookMarket-ForCpp/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/BookMarket_autogen.dir
