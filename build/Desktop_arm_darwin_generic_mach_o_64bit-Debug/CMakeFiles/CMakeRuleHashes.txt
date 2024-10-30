@@ -1,4 +1,0 @@
-# Hashes of file build rules.
-2e5e8c0014bc4dc026ce4f406683c158 BookMarket_autogen/timestamp
-f4a6767057129c352196af84eac1226c CMakeFiles/BookMarket_autogen
-f4a6767057129c352196af84eac1226c CMakeFiles/BookMarket_autogen_timestamp_deps
